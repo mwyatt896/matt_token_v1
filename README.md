@@ -2,12 +2,9 @@
 
 ## Build Guide
 
-To compile this Aleo program, run:
+To get the .aleo filed for this Leo program, run:
 ```bash
-snarkvm build
+bash run.sh
 ```
 
-To execute this Aleo program, run:
-```bash
-snarkvm run hello
-```
+To run any of the functions specifically in a test -- see the run.sh script for examples
